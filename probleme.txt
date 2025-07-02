@@ -1,0 +1,16 @@
+Nos clients abandonnent fréquemment leur panier d'achat avant de finaliser la commande. 
+Nous perdons potentiellement beaucoup de ventes. 
+Pouvez-vous nous aider à comprendre pourquoi cela se produit et 
+comment nous pourrions prédire quels clients sont les plus susceptibles d'abandonner leur panier,
+afin que nous puissions cibler nos efforts marketing ?
+
+
+
+Role:
+- Identifier les facteurs qui contribuent à l'abandon de panier.
+- Construire un modèle capable de prédire l'abandon de panier.
+- Suggérer des actions pour réduire cet abandon.
+
+Pré-analyse: on peut projeter ce probleme à un probleme binaire (abandonner,n'abandonner pas)(1/0)
+
+Datatest est Online Shoppers Purchasing Intention Dataset
